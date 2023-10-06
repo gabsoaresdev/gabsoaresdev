@@ -27,11 +27,3 @@ Here are some ideas to get you started:
   
 </div>
 
-
-![Ícone de E-mail](https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png)
-
-- 📍 Sua Localização
-- 💼 Empresa em que você trabalha
-- ✉️ [contatogabsoaresdev@gmail.com](mailto:contatogabsoaresdev@gmail.com)
-
-mailto:contatogabsoaresdev@gmail.com
