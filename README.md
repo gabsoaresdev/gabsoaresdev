@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
+<div>
+<a href="https://github.com/vivianeagnoletto">
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=vivianeagnoletto&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianeagnoletto&layout-compact&langs_count=16&theme=dracula"/>
+
+</div>
+
 <div> 
   
   <a href="https://instagram.com/__gabriels1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
