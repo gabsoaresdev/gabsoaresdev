@@ -1,4 +1,4 @@
-### Olá, meu nome é Gabriel Soares 👋
+### Olá, meu nome é Gabriel Soares! 👋
 
 <div>
   
